@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Vladimir,
-- 👀 I’m interested in Java/C/C++ developer roles,
 - 🌱 I’m currently a student of Faculty Of Automatic Control and Computer Engineering, Iasi, Romania,
-- 💞️ I’m looking to collaborate on the roles mentioned above,
 - 📫 How to reach me : vladimirvasiliu1@gmail.com
