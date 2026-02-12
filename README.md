@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Vladimir,
-- 🌱 I’m currently a student of Faculty Of Automatic Control and Computer Engineering, Iasi, Romania,
+- 🌱 I finished my studies at Faculty Of Automatic Control and Computer Engineering, Iasi, Romania,
 - 📫 How to reach me : vladimirvasiliu1@gmail.com
